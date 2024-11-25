@@ -1,0 +1,63 @@
+[
+  {
+    "KeyIndex": 1,
+    "Name": "A",
+    "Octave": 0
+  },
+  {
+    "KeyIndex": 2,
+    "Name": "A#",
+    "Octave": 0
+  },
+  {
+    "KeyIndex": 3,
+    "Name": "B",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 4,
+    "Name": "C",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 5,
+    "Name": "C#",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 6,
+    "Name": "D",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 7,
+    "Name": "D#",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 8,
+    "Name": "E",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 9,
+    "Name": "F",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 10,
+    "Name": "F#",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 11,
+    "Name": "G",
+    "Octave": 1
+  },
+  {
+    "KeyIndex": 12,
+    "Name": "G#",
+    "Octave": 1
+  }
+
+]
