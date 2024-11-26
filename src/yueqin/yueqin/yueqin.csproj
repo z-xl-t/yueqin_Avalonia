@@ -3,7 +3,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
-    <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+    <AvaloniaUseCompiledBindingsByDefault>False</AvaloniaUseCompiledBindingsByDefault>
+  </PropertyGroup>
+  <PropertyGroup Label="Avalonia">
+    <AvaloniaXamlIlDebuggerLaunch>False</AvaloniaXamlIlDebuggerLaunch>
+    <EnableAvaloniaXamlCompilation>True</EnableAvaloniaXamlCompilation>
   </PropertyGroup>
   
   <ItemGroup>
@@ -11,15 +15,23 @@
   </ItemGroup>
   
   <ItemGroup>
+    <None Remove="Data\JianPuKeys.json" />
     <None Remove="Data\PianoKeys.json" />
+    <None Remove="Data\PianoKeyWithJianPuKeyBases.json" />
   </ItemGroup>
   
   <ItemGroup>
 	  <!-- 添加注释 -->
-	  <EmbeddedResource Include="Data\PianoKeys.json" >
-		  <!-- 嵌入的资源，默认会自动命名空间名+文件名  -->
+	  <!-- 嵌入的资源，默认会自动命名空间名+文件名  -->
+	  <EmbeddedResource Include="Data\JianPuKeys.json">
 		  <!-- 强制逻辑命名 -->
+		  <LogicalName>JianPuKeys.json</LogicalName>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Data\PianoKeys.json">
 		  <LogicalName>PianoKeys.json</LogicalName>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Data\PianoKeyWithJianPuKeyBases.json">
+		  <LogicalName>PianoKeyWithJianPuKeyBases.json</LogicalName>
 	  </EmbeddedResource>
   </ItemGroup>
 

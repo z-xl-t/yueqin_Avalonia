@@ -8,5 +8,5 @@
         x:Class="yueqin.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
         Title="yueqin">
-        <views:MainView />
+	<ContentControl Content="{Binding Content}"></ContentControl>
 </Window>

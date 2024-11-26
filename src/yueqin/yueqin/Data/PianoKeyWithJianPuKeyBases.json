@@ -1,0 +1,63 @@
+[
+  // C大调
+  {
+    "Name": "1=C4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 40
+  },
+  {
+    "Name": "1=C#4 bD4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 41
+  },
+  {
+    "Name": "1=D4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 42
+  },
+  {
+    "Name": "1=D#4 bE4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 43
+  },
+  {
+    "Name": "1=E4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 44
+  },
+  {
+    "Name": "1=F4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 45
+  },
+  {
+    "Name": "1=F#4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 46
+  },
+  {
+    "Name": "1=G4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 47
+  },
+  {
+    "Name": "1=G#4 bA4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 48
+  },
+  {
+    "Name": "1=A4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 49
+  },
+  {
+    "Name": "1=A#4 bB4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 50
+  },
+  {
+    "Name": "1=B4",
+    "JianPuKeyIndex": 61,
+    "PianoKeyIndex": 51
+  }
+]

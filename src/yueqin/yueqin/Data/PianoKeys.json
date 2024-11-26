@@ -1,63 +1,458 @@
 [
+  // 0
   {
-    "KeyIndex": 1,
+    "PianoKeyIndex": 1,
     "Name": "A",
     "Octave": 0
   },
   {
-    "KeyIndex": 2,
+    "PianoKeyIndex": 2,
     "Name": "A#",
     "Octave": 0
   },
   {
-    "KeyIndex": 3,
+    "PianoKeyIndex": 3,
     "Name": "B",
     "Octave": 1
   },
+  // 1
   {
-    "KeyIndex": 4,
+    "PianoKeyIndex": 4,
     "Name": "C",
     "Octave": 1
   },
   {
-    "KeyIndex": 5,
+    "PianoKeyIndex": 5,
     "Name": "C#",
     "Octave": 1
   },
   {
-    "KeyIndex": 6,
+    "PianoKeyIndex": 6,
     "Name": "D",
     "Octave": 1
   },
   {
-    "KeyIndex": 7,
+    "PianoKeyIndex": 7,
     "Name": "D#",
     "Octave": 1
   },
   {
-    "KeyIndex": 8,
+    "PianoKeyIndex": 8,
     "Name": "E",
     "Octave": 1
   },
   {
-    "KeyIndex": 9,
+    "PianoKeyIndex": 9,
     "Name": "F",
     "Octave": 1
   },
   {
-    "KeyIndex": 10,
+    "PianoKeyIndex": 10,
     "Name": "F#",
     "Octave": 1
   },
   {
-    "KeyIndex": 11,
+    "PianoKeyIndex": 11,
     "Name": "G",
     "Octave": 1
   },
   {
-    "KeyIndex": 12,
+    "PianoKeyIndex": 12,
     "Name": "G#",
     "Octave": 1
+  },
+  {
+    "PianoKeyIndex": 13,
+    "Name": "A",
+    "Octave": 1
+  },
+  {
+    "PianoKeyIndex": 14,
+    "Name": "A#",
+    "Octave": 1
+  },
+  {
+    "PianoKeyIndex": 15,
+    "Name": "B",
+    "Octave": 1
+  },
+  // 2
+  {
+    "PianoKeyIndex": 16,
+    "Name": "C",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 17,
+    "Name": "C#",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 18,
+    "Name": "D",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 19,
+    "Name": "D#",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 20,
+    "Name": "E",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 21,
+    "Name": "F",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 22,
+    "Name": "F#",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 23,
+    "Name": "G",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 24,
+    "Name": "G#",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 25,
+    "Name": "A",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 26,
+    "Name": "A#",
+    "Octave": 2
+  },
+  {
+    "PianoKeyIndex": 27,
+    "Name": "B",
+    "Octave": 2
+  },
+  // 3
+  {
+    "PianoKeyIndex": 28,
+    "Name": "C",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 29,
+    "Name": "C#",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 30,
+    "Name": "D",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 31,
+    "Name": "D#",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 32,
+    "Name": "E",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 33,
+    "Name": "F",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 34,
+    "Name": "F#",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 35,
+    "Name": "G",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 36,
+    "Name": "G#",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 37,
+    "Name": "A",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 38,
+    "Name": "A#",
+    "Octave": 3
+  },
+  {
+    "PianoKeyIndex": 39,
+    "Name": "B",
+    "Octave": 3
+  },
+  // 4
+  {
+    "PianoKeyIndex": 40,
+    "Name": "C",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 41,
+    "Name": "C#",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 42,
+    "Name": "D",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 43,
+    "Name": "D#",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 44,
+    "Name": "E",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 45,
+    "Name": "F",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 46,
+    "Name": "F#",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 47,
+    "Name": "G",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 48,
+    "Name": "G#",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 49,
+    "Name": "A",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 50,
+    "Name": "A#",
+    "Octave": 4
+  },
+  {
+    "PianoKeyIndex": 51,
+    "Name": "B",
+    "Octave": 4
+  },
+  // 5
+  {
+    "PianoKeyIndex": 52,
+    "Name": "C",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 53,
+    "Name": "C#",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 54,
+    "Name": "D",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 55,
+    "Name": "D#",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 56,
+    "Name": "E",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 57,
+    "Name": "F",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 58,
+    "Name": "F#",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 59,
+    "Name": "G",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 60,
+    "Name": "G#",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 61,
+    "Name": "A",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 62,
+    "Name": "A#",
+    "Octave": 5
+  },
+  {
+    "PianoKeyIndex": 63,
+    "Name": "B",
+    "Octave": 5
+  },
+  // 6
+  {
+    "PianoKeyIndex": 64,
+    "Name": "C",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 65,
+    "Name": "C#",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 66,
+    "Name": "D",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 67,
+    "Name": "D#",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 68,
+    "Name": "E",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 69,
+    "Name": "F",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 70,
+    "Name": "F#",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 71,
+    "Name": "G",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 72,
+    "Name": "G#",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 73,
+    "Name": "A",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 74,
+    "Name": "A#",
+    "Octave": 6
+  },
+  {
+    "PianoKeyIndex": 75,
+    "Name": "B",
+    "Octave": 6
+  },
+  // 7
+
+  {
+    "PianoKeyIndex": 76,
+    "Name": "C",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 77,
+    "Name": "C#",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 78,
+    "Name": "D",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 79,
+    "Name": "D#",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 80,
+    "Name": "E",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 81,
+    "Name": "F",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 82,
+    "Name": "F#",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 83,
+    "Name": "G",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 84,
+    "Name": "G#",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 85,
+    "Name": "A",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 86,
+    "Name": "A#",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 87,
+    "Name": "B",
+    "Octave": 7
+  },
+  {
+    "PianoKeyIndex": 88,
+    "Name": "C",
+    "Octave": 8
   }
+
+
+
+
+
+
 
 ]

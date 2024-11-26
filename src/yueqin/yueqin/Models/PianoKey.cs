@@ -8,10 +8,17 @@ namespace yueqin.Models
 {
     public class PianoKey
     {
-        public int KeyIndex { get; set; }
+        public int PianoKeyIndex { get; set; }
         public required string Name { get; set; }
+
+        // 八度 ,从 0 计数
         public int Octave { get; set; }
-        public int PrevPianoKeyIndex { get; set; }
-        public int NexPianoKeyKeyIndex { get; set; }
+
+        public static PianoKey GetDefaultPianoKey() => new()
+        { 
+            PianoKeyIndex = 40,
+            Name = "C",
+            Octave = 4,
+        };
     }
 }
